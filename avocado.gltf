@@ -73,19 +73,19 @@
   ],
   "buffers": [
     {
-      "uri": "Avocado.bin",
+      "uri": "https://github.com/bobbyntigers64/bobbyntigers64/raw/main/Avocado.bin",
       "byteLength": 23580
     }
   ],
   "images": [
     {
-      "uri": "Avocado_baseColor.png"
+      "uri": "https://github.com/bobbyntigers64/bobbyntigers64/raw/main/Avocado_baseColor.png"
     },
     {
-      "uri": "Avocado_roughnessMetallic.png"
+      "uri": "https://github.com/bobbyntigers64/bobbyntigers64/raw/main/Avocado_roughnessMetallic.png"
     },
     {
-      "uri": "Avocado_normal.png"
+      "uri": "https://github.com/bobbyntigers64/bobbyntigers64/raw/main/Avocado_normal.png"
     }
   ],
   "meshes": [
